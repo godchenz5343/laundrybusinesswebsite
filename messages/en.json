@@ -1,0 +1,21 @@
+{
+    "navbar": {
+        "home": "Home",
+        "about": "About",
+        "services": "Services",
+        "activity": "News&Activity",
+        "contact": "Contact"
+        },
+    "footer":{
+    "quicklink":"Quicklink",
+    "contactus":"Contact Us ",
+    "address1":"170 Mittraphap Road, Pak Chong Subdistrict,",
+    "address2":"Pak Chong District, Nakhon Ratchasima 30130, Thailand",
+    "mobile":"Tel: 044-311-038,044-311-890,090-281-9423",
+    "mobile2":"090-281-9134,093-772-5222",
+    "email":"Email: laundrybusiness.2004@gmail.com"
+        },
+    "slogan":{
+    "slogan":"You care for clean We clean for care"
+}
+}
